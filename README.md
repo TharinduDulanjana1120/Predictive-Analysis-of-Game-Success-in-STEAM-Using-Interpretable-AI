@@ -25,9 +25,13 @@ The goal is not only prediction accuracy — but meaningful insight.
 ## 🎯 Objectives
 
 ✔ Predict game success using machine learning
+
 ✔ Apply structured preprocessing and feature engineering
+
 ✔ Evaluate performance using classification metrics
+
 ✔ Integrate SHAP for model interpretability
+
 ✔ Provide transparent insights into key success factors
 
 ---
@@ -208,22 +212,3 @@ It demonstrates:
 ✔ Evaluation methodology
 ✔ Interpretability integration
 ✔ Analytical discussion of results
-
----
-
-Now — let’s elevate this further.
-
-To make your repository even stronger:
-
-1️⃣ Export your confusion matrix as PNG
-2️⃣ Export SHAP summary plot as PNG
-3️⃣ Add them inside an `assets/` folder
-4️⃣ Embed in README using:
-
-```markdown
-![Confusion Matrix](assets/confusion_matrix.png)
-![SHAP Summary](assets/shap_summary.png)
-```
-
-This transforms it from “student upload” to “AI portfolio project”.
-
